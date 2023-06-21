@@ -6,7 +6,5 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 
-В работе использованы инструменты для освоения основ HTML и CSS. При разработке применена технология БЭМ.
-
 ## Ссылка  на проект
 Ссылка на проект для просмотра - https://marimys72.github.io/Simple-Page/
